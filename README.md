@@ -1,4 +1,4 @@
-# Python Basic Programs - Task 1 & Task 2
+# Assignment 1
 
 This repository contains two simple Python programs demonstrating basic input, output, and arithmetic operations.
 
