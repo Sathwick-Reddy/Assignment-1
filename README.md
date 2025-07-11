@@ -19,3 +19,10 @@ This repository contains two simple Python programs demonstrating basic input, o
 **File:** `Task2.py`
 
 ---
+## How to Run:
+1. Download or clone this repository.
+2. Use any Python IDE or terminal.
+3. Run the scripts using:
+   ```bash
+   python Task1.py
+   python Task2.py
